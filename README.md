@@ -1,6 +1,6 @@
 # animationFrameworks
 
-###H TML/Hybrid
+### HTML/Hybrid
 1. https://github.com/daneden/animate.css
 2. https://github.com/juliangarnier/anime
 
