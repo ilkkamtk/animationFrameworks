@@ -25,6 +25,6 @@ no.addEventListener('click', (evt) => {
     evt.target.classList.add('headShake');
 });
 
-yes.addEventListener('webkitAnimationEnd', (evt)=>{
+no.addEventListener('webkitAnimationEnd', (evt)=>{
     evt.target.classList.remove('headShake');
 });
